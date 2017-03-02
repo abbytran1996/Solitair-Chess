@@ -1,0 +1,229 @@
+commit 60ad1f0bae79a34472fea324adc056c06fd16262
+Author: mytran <mt2915@rit.edu>
+Date:   Tue Dec 6 17:52:04 2016 -0500
+
+    Submit for evaluation
+
+commit 18975d97c0c70013158563789b82d197ff7f0361
+Author: mytran <mt2915@rit.edu>
+Date:   Tue Dec 6 17:40:23 2016 -0500
+
+    Submit for evaluation
+
+commit 0bc2b17f543af28ec476b66cb63c4979d7e0f633
+Author: mytran <mt2915@rit.edu>
+Date:   Tue Dec 6 15:33:44 2016 -0500
+
+    Finished all functions
+
+commit 0c67dc83b2e9cd602b21fed37093d7ac7ef9f70a
+Author: mytran <mt2915@rit.edu>
+Date:   Sun Dec 4 18:10:01 2016 -0500
+
+    Finishing PTUI
+
+commit 6f2a198b2b1e8936999840478671b5b12a16db20
+Author: mytran <mt2915@rit.edu>
+Date:   Sat Dec 3 23:36:15 2016 -0500
+
+    Finishing PTUI
+
+commit 39035c77c12760c0bf6f5efa806e0d99c02a44a4
+Author: mytran <mt2915@rit.edu>
+Date:   Fri Dec 2 18:16:20 2016 -0500
+
+    Finishing PTUI
+
+commit 876ef0891a148ef8012326743cfc9d08d92cfdc7
+Author: mytran <mt2915@rit.edu>
+Date:   Fri Dec 2 15:41:01 2016 -0500
+
+    Finishing PTUI
+
+commit 5ed365123f84f49af4e21cc4669420005bb94182
+Author: mytran <mt2915@rit.edu>
+Date:   Fri Dec 2 13:56:03 2016 -0500
+
+    Finishing PTUI
+
+commit 0308941785aed5eefc35c213badf98191343388a
+Author: mytran <mt2915@rit.edu>
+Date:   Fri Dec 2 13:54:40 2016 -0500
+
+    Finishing PTUI
+
+commit f35ebbb28418593bb4482535d322b34acf47b8c9
+Author: mytran <mt2915@rit.edu>
+Date:   Thu Dec 1 21:28:32 2016 -0500
+
+    Finishing PTUI
+
+commit 1877b4aba7ed7e742bed9d9fc20c16e62bbbea82
+Author: mytran <mt2915@rit.edu>
+Date:   Thu Dec 1 16:51:56 2016 -0500
+
+    Changed Model
+
+commit fc438d7d1c164fb0b9464107a69f0d494c7769a3
+Author: brendanmutton <bxm8164@rit.edu>
+Date:   Thu Dec 1 15:47:43 2016 -0500
+
+    model
+
+commit 3b6c6e524dcf9f34a1bef5119bcb0b26bdfc892d
+Author: brendanmutton <bxm8164@rit.edu>
+Date:   Thu Dec 1 15:33:58 2016 -0500
+
+    model
+
+commit 08518d71c5497a55c3e6f73b7ca6d751495ad4f4
+Author: mytran <mt2915@rit.edu>
+Date:   Thu Dec 1 15:30:51 2016 -0500
+
+    Working on Configuration
+
+commit f54714d0bd4af41664604937fd375eaf47e40038
+Author: mytran <mt2915@rit.edu>
+Date:   Thu Dec 1 15:25:17 2016 -0500
+
+    merged
+
+commit 1f78a57624321c3f3764dd5cb6f38d1a9fb94acc
+Author: mytran <mt2915@rit.edu>
+Date:   Thu Dec 1 15:22:10 2016 -0500
+
+    fixing things
+
+commit f682a076e6d9eaaf17da5aa50b5f06b205d4882a
+Author: mytran <mt2915@rit.edu>
+Date:   Thu Dec 1 15:21:09 2016 -0500
+
+    working on fixing things
+
+commit c40767c87d8b0c83f123f18bd1a34e13e7c564ce
+Author: brendanmutton <bxm8164@rit.edu>
+Date:   Thu Dec 1 14:59:42 2016 -0500
+
+    model
+
+commit 344c6db1f6ca608ebb276e7286e62bdd4be76813
+Merge: 27668cd 6f4ee85
+Author: brendanmutton <bxm8164@rit.edu>
+Date:   Thu Dec 1 14:58:57 2016 -0500
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #	backtracking/ChessBoardConfig.java
+
+commit 27668cd040a5be8b3727f3d4ec8eb557a8dd241a
+Author: brendanmutton <bxm8164@rit.edu>
+Date:   Thu Dec 1 14:57:47 2016 -0500
+
+    model
+
+commit 6f4ee858391cec7a4e30f6072e6c2f64b27a43d3
+Author: mytran <mt2915@rit.edu>
+Date:   Tue Nov 29 19:07:52 2016 -0500
+
+    Working on Configuration
+
+commit ebf87acfd7f6bc1cf98953caaf906e7b1ec3a213
+Author: brendanmutton <bxm8164@rit.edu>
+Date:   Tue Nov 29 18:58:31 2016 -0500
+
+    Finishing successors hopefully!
+
+commit 828fce9a6d8b618e67411f464c4106f93f9ce9c9
+Merge: 155f51a 4c9c95f
+Author: brendanmutton <bxm8164@rit.edu>
+Date:   Tue Nov 29 18:57:43 2016 -0500
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #	backtracking/ChessBoardConfig.java
+
+commit 155f51ab30947666841140fe413ca7e00928c8bd
+Author: brendanmutton <bxm8164@rit.edu>
+Date:   Tue Nov 29 18:57:11 2016 -0500
+
+    Finishing successors hopefully!
+
+commit 8711ad621b507d3db5ae6bdd47615efbab6209a4
+Author: brendanmutton <bxm8164@rit.edu>
+Date:   Tue Nov 29 18:55:17 2016 -0500
+
+    Finishing successors hopefully!
+
+commit 4c9c95fd2ad21fb28ecf42ed9e78d588dfe10a1a
+Author: mytran <mt2915@rit.edu>
+Date:   Tue Nov 29 18:26:15 2016 -0500
+
+    Working on Configuration
+
+commit 0f3982b3d4d2bc87fc1ec1b259655a993b87a60d
+Author: mytran <mt2915@rit.edu>
+Date:   Tue Nov 29 18:22:10 2016 -0500
+
+    Working on Configuration
+
+commit 7783a0f0e220f072d4da28f65d22eeda31e1096e
+Author: brendanmutton <bxm8164@rit.edu>
+Date:   Tue Nov 29 18:18:03 2016 -0500
+
+    working on model!
+
+commit c76ed677a260d13bd89ba8c03c61f3c93aa4a3dc
+Author: brendanmutton <bxm8164@rit.edu>
+Date:   Tue Nov 29 12:15:56 2016 -0500
+
+    working on the model and making a few additions to chess type. also working on implementing more successors
+
+commit ba79f33e579a6121c6dd7232727433e452b36d9b
+Author: brendanmutton <bxm8164@rit.edu>
+Date:   Tue Nov 29 09:33:23 2016 -0500
+
+    isGoal( ), getSuccessors( )
+
+commit 0ce09ed7903ee8d27b115a9724807ec5396b3a6b
+Author: mytran <mt2915@rit.edu>
+Date:   Mon Nov 28 20:01:01 2016 -0500
+
+    Working on Configuration
+
+commit 395bd38cd02014ce5882c1b6fb88c7b6a1bd3884
+Author: mytran <mt2915@rit.edu>
+Date:   Mon Nov 28 19:40:35 2016 -0500
+
+    Working on Configuration
+
+commit e6c8b74c8283a5008a8fded47a4b47d74f31a6c2
+Author: mytran <mt2915@rit.edu>
+Date:   Mon Nov 28 19:39:14 2016 -0500
+
+    Working on Configuration
+
+commit 594dd8bda92c662a48f1f642a44b3f0ea4abf9a8
+Author: mytran <mt2915@rit.edu>
+Date:   Mon Nov 28 19:24:45 2016 -0500
+
+    Working on Configuration
+
+commit 673bc3eea3db9933011c1f756265d96e3b6f8121
+Author: brendanmutton <bxm8164@rit.edu>
+Date:   Tue Nov 22 15:10:56 2016 -0500
+
+    Test
+
+commit 74f94b1fa38dcb1e11cfb7cdc389600649b27e76
+Author: brendanmutton <bxm8164@rit.edu>
+Date:   Tue Nov 22 15:10:17 2016 -0500
+
+    Test
+
+commit fb44670b12be4a195cbb9abdfc4a0db81f25395d
+Author: mytran <mt2915@rit.edu>
+Date:   Tue Nov 22 14:55:05 2016 -0500
+
+    initial version
